@@ -1,0 +1,28 @@
+_repo: Wind-of-destiny_74696
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coleman, Sara Lindsay
+    gutenberg_agent_id: '57604'
+    url: http://www.gutenberg.org/2009/agents/57604
+description: ''
+gutenberg_issued: '2024-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74696'
+language: en
+pgterms:marc904: https://archive.org/details/windofdestiny00cole
+pgterms:marc905: 20230930191545coleman
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Mary Glenn Krause, Branka P and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bDoubleday, Page & Company, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Wind of destiny
+url: http://www.gutenberg.org/ebooks/74696
