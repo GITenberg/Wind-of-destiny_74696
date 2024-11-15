@@ -1,11 +1,16 @@
 _repo: Wind-of-destiny_74696
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74696-h/images/cover.jpg
 creator:
   author:
     agent_name: Coleman, Sara Lindsay
     gutenberg_agent_id: '57604'
     url: http://www.gutenberg.org/2009/agents/57604
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74696#Wind-of-destiny
 gutenberg_issued: '2024-11-07'
 gutenberg_type: Text
 identifiers:
